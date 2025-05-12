@@ -41,11 +41,17 @@ my_card = BusinessCard(
 
 print(my_card.display_info())
 ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
+</picture>
 
 
 ## My Skills
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /></div>
+
 
 
 
