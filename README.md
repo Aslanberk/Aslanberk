@@ -41,12 +41,6 @@ my_card = BusinessCard(
 
 print(my_card.display_info())
 ```
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
-</picture>
-
 
 ## My Skills
 
