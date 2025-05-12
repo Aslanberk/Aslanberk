@@ -24,7 +24,7 @@ class BusinessCard:
         ┌──────────────────────────────────┐
         │  {self.name}                     │
         │  {self.title}                    │
-        │  Social: {self.github}           │
+        │  Social: {self.sicoal}           │
         │  Email: {self.email}             │
         │  Location: {self.location}       │
         └──────────────────────────────────┘
