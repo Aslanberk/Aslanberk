@@ -23,10 +23,10 @@ class BusinessCard:
         return f"""
         ┌──────────────────────────────────┐
         │  {self.name}                     │
-        │  {self.title}                     │
-        │  Social: {self.github}            │
-        │  Email: {self.email}              │
-        │  Location: {self.location}        │
+        │  {self.title}                    │
+        │  Social: {self.github}           │
+        │  Email: {self.email}             │
+        │  Location: {self.location}       │
         └──────────────────────────────────┘
         """
 
