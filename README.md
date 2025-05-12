@@ -11,32 +11,36 @@
 ## About Me
 
 ```rs
+from colorama import Fore, Style, init
+
+init(autoreset=True)
+
 class BusinessCard:
-    def __init__(self, name, title, sicoal, email, location):
+    def __init__(self, name, title, link, email, location):
         self.name = name
         self.title = title
-        self.social = social
+        self.link = link
         self.email = email
         self.location = location
 
     def display_info(self):
         return f"""
-        ┌──────────────────────────────────┐
-        │  {self.name}                     │
-        │  {self.title}                    │
-        │  Social: {self.social}           │
-        │  Email: {self.email}             │
-        │  Location: {self.location}       │
-        └──────────────────────────────────┘
+        {Fore.CYAN}┌──────────────────────────────────┐
+        │  {Fore.YELLOW}{self.name}{Style.RESET_ALL}                     
+        │  {Fore.GREEN}{self.title}{Style.RESET_ALL}                     
+        │  Link: {Fore.BLUE}{self.link}{Style.RESET_ALL}            
+        │  Email: {Fore.MAGENTA}{self.email}{Style.RESET_ALL}              
+        │  Location: {Fore.RED}{self.location}{Style.RESET_ALL}        
+        {Fore.CYAN}└──────────────────────────────────┘
         """
 
-
+# Пример использования:
 my_card = BusinessCard(
-    name="Aslan",
-    title="Back-end Dev",
-    social="https://albione11.taplink.ws",
-    email="aslanberkw@gmail.com",
-    location="North Ossetia, Russia"
+    name= "Aslan",
+    title= "Back-end Dev",
+    link= "https://albione11.taplink.ws/",
+    email= "aslanberkw@gmail.com",
+    location= "North Ossetia, Russia"
 )
 
 print(my_card.display_info())
