@@ -1,3 +1,10 @@
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"  />
+</div>
+
+
 <h3 align="center">👋 Hi, I’m Aslanberk</h3>
 <p align="center">I'm a Back-end dev from Russia</p>
 
@@ -54,3 +61,5 @@ print(my_card.display_info())
 [![](https://visitcount.itsvg.in/api?id=Aslanberk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aslanberk&theme=onedark)](https://github.com/aslanberk/github-profile-trophy)
