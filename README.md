@@ -4,6 +4,11 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Aslanberk/count.svg)
+
+</div>
 
 <h3 align="center">👋 Hi, I’m Aslanberk</h3>
 <p align="center">I'm a Back-end dev from Russia</p>
@@ -45,12 +50,9 @@ my_card = BusinessCard(
 
 print(my_card.display_info())
 ```
-
 ## My Skills
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /></div>
-
-
 
 
 <details>
