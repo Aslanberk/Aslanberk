@@ -10,6 +10,16 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Aslanberk.github.io/Aslanberk/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/Aslanberk/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://Aslanberk.github.io/Aslanberk/grid-snake.svg" />
+</picture>
+
+</div>
+
 <h3 align="center">👋 Hi, I’m Aslanberk</h3>
 <p align="center">I'm a Back-end dev from Russia</p>
 
