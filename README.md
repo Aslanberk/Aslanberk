@@ -67,9 +67,7 @@ print(my_card.display_info())
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /></div>
 
 
-<details>
-    <summary><h2>My Github Stats</h2></summary>
-    <figure>
+ ## My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aslanberk&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aslanberk&theme=2077)
