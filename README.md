@@ -8,9 +8,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Aslanberk/count.svg)
 
-</div>
 
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://Aslanberk.github.io/Aslanberk/grid-snake-dark.svg" />
@@ -23,7 +21,11 @@
 <h3 align="center">👋 Hi, I’m Aslanberk</h3>
 <p align="center">I'm a Back-end dev from Russia</p>
 
+<div align="center">
 
+![snake gif](https://github.com/Aslanberk/Aslanberk/blob/output/github-snake-dark.svg)
+
+</div>
 
 ## About Me
 
@@ -79,3 +81,4 @@ print(my_card.display_info())
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aslanberk&theme=onedark)](https://github.com/aslanberk/github-profile-trophy)
+
