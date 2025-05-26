@@ -66,8 +66,7 @@ print(my_card.display_info())
 ```
 ## My Skills
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /></div>
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,bash,kotlin,linux,nodejs,kafka,tensorflow,pytorch,mysql)](https://skillicons.dev)
 
  ## My Github Stats
 
