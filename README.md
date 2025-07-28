@@ -5,11 +5,6 @@
 </div>
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/Aslanberk/count.svg)
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://Aslanberk.github.io/Aslanberk/grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/Aslanberk/grid-snake-light.svg" />
