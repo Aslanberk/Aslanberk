@@ -72,7 +72,4 @@ print(my_card.display_info())
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aslanberk&theme=2077&utcOffset=8)
 
 ---
-</details>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aslanberk&theme=onedark)](https://github.com/aslanberk/github-profile-trophy)
 
