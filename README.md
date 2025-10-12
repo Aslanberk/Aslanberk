@@ -61,7 +61,7 @@ print(my_card.display_info())
 ```
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,kafka,pytorch,tensorflow,anaconda,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,kafka,pytorch,tensorflow,anaconda,bash,django,)](https://skillicons.dev)
 
  ## My Github Stats
 
