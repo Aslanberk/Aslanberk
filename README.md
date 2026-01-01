@@ -38,7 +38,7 @@ name = "Aslan"
 role = "Python Back-end Developer"
 focus = ["APIs", "performance", "clean architecture", "scalability"]
 mindset = "production-first"
-portfolio = "https://taplink.cc/albi0ne"
+contacts = "https://taplink.cc/albi0ne"
 
 
 def daily_routine(self):
