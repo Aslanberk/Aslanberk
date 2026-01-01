@@ -74,7 +74,7 @@ while not senior_level:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,go,rust, )](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kafka,pytorch,tensorflow,anaconda,bash,django,flask,linux, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,git,docker,pytorch,tensorflow,anaconda,bash,django,flask,arch,linux, )](https://skillicons.dev)
 
  ## 🦾 My Github Stats
 
