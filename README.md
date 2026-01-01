@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
+  <img alt="GIF" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
 <div align="center">
