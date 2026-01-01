@@ -22,66 +22,61 @@
 
 </div>
 
-## About Me
+## 🧠 About Me
+
+• Python-focused backend developer
+
+• Strong in algorithms, data structures, and system design
+
+• Experience with REST APIs, databases, and infrastructure
+
+• Prefer clean, readable, and scalable code
 
 ```rs
-from colorama import Fore, Style, init
-
-init(autoreset=True)
-
-class BusinessCard:
-    def __init__(self, name, title, link, email, location):
-        self.name = name
-        self.title = title
-        self.link = link
-        self.email = email
-        self.location = location
-
-    def display_info(self):
-        return f"""
-        {Fore.CYAN}┌──────────────────────────────────┐
-        │  {Fore.YELLOW}{self.name}{Style.RESET_ALL}                     
-        │  {Fore.GREEN}{self.title}{Style.RESET_ALL}                     
-        │  Link: {Fore.BLUE}{self.link}{Style.RESET_ALL}            
-        │  Email: {Fore.MAGENTA}{self.email}{Style.RESET_ALL}              
-        │  Location: {Fore.RED}{self.location}{Style.RESET_ALL}        
-        {Fore.CYAN}└──────────────────────────────────┘
-        """
+class BackendDeveloper:
+name = "Aslan"
+role = "Python Back-end Developer"
+focus = ["APIs", "performance", "clean architecture", "scalability"]
+mindset = "production-first"
+portfolio = "https://taplink.cc/albi0ne"
 
 
-my_card = BusinessCard(
-    name= "Aslan",
-    title= "Back-end Dev",
-    link= "https://taplink.cc/albi0ne",
-    email= "aslanberkw@gmail.com",
-    location= "North Ossetia, Russia"
-)
-def qr ():
-    ссылка = "https://taplink.cc/albi0ne"
-    qr = [
-            "███████████████████████████████",
-            "████ ▄▄▄▄▄ █ ▄ ▄▀ ▀█ ▄█████████",
-            "████ █   █ █ ██▀█▀█▄▀▄█████████",
-            "████ █▄▄▄█ █▄█▀█ ▀ ▀ ██████████",
-            "████▄▄▄▄▄▄▄█ ▀▄█▄▀ █▄▄█████████",
-            "████ ▀▀▀  ▄▄▀█ ▀█▀▀▀ ██████████",
-            "█████▄ ▀▄▀▄▄ █▄▀▄ ▀▀▄▄█████████",
-            "████ ▄▄▄▄▄ █▄█  ▀▄█ ▄██████████",
-            "████ █   █ █  █▀█▄ ▄▄▀█████████",
-            "████ █▄▄▄█ █ ▀ ▀ ▀▀ ███████████",
-            "████▄▄▄▄▄▄▄█▄▄█▄▄█▄██▄█████████",
-            "███████████████████████████████"
-    ]
-
-print(my_card.display_info())
+def daily_routine(self):
+return ["design", "code", "review", "optimize"]
 ```
-## My Skills
+## 🚀 Current Goal
+
+```rs
+while not senior_level:
+  learn()
+    build()
+      improve()
+```
+## 📦 What I Build
+
+• Backend services & APIs
+
+• High-load ready systems
+
+• Clean architecture & abstractions
+
+• Interview-ready algorithmic solutions
+
+
+## 🔗 Contacts
+
+📧 Email: aslanberk@gmail.com
+
+🌐 Or: https://taplink.cc/albi0ne
+
+
+## 🛠 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,go,rust, )](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=kafka,pytorch,tensorflow,anaconda,bash,django,flask,linux, )](https://skillicons.dev)
 
- ## My Github Stats
+ ## 🦾 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aslanberk&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aslanberk&theme=2077)
