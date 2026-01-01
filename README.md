@@ -28,7 +28,7 @@
 
 • Strong in algorithms, data structures, and system design
 
-• Experience with REST APIs, databases, ML and infrastructure
+• Experience with REST APIs, databases, ML, and infrastructure
 
 • Prefer clean, readable, and scalable code
 
