@@ -48,20 +48,38 @@ class BusinessCard:
         {Fore.CYAN}└──────────────────────────────────┘
         """
 
-# Пример использования:
+
 my_card = BusinessCard(
     name= "Aslan",
     title= "Back-end Dev",
-    link= "https://albione11.taplink.ws/",
+    link= "https://taplink.cc/albi0ne",
     email= "aslanberkw@gmail.com",
     location= "North Ossetia, Russia"
 )
+def qr ():
+    ссылка = "https://taplink.cc/albi0ne"
+    qr = [
+            "███████████████████████████████",
+            "████ ▄▄▄▄▄ █ ▄ ▄▀ ▀█ ▄█████████",
+            "████ █   █ █ ██▀█▀█▄▀▄█████████",
+            "████ █▄▄▄█ █▄█▀█ ▀ ▀ ██████████",
+            "████▄▄▄▄▄▄▄█ ▀▄█▄▀ █▄▄█████████",
+            "████ ▀▀▀  ▄▄▀█ ▀█▀▀▀ ██████████",
+            "█████▄ ▀▄▀▄▄ █▄▀▄ ▀▀▄▄█████████",
+            "████ ▄▄▄▄▄ █▄█  ▀▄█ ▄██████████",
+            "████ █   █ █  █▀█▄ ▄▄▀█████████",
+            "████ █▄▄▄█ █ ▀ ▀ ▀▀ ███████████",
+            "████▄▄▄▄▄▄▄█▄▄█▄▄█▄██▄█████████",
+            "███████████████████████████████"
+    ]
 
 print(my_card.display_info())
 ```
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,kafka,pytorch,tensorflow,anaconda,bash,django,flask,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,go,rust, )](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=kafka,pytorch,tensorflow,anaconda,bash,django,flask,linux, )](https://skillicons.dev)
 
  ## My Github Stats
 
