@@ -70,11 +70,11 @@ while not senior_level:
 🌐 Or: https://taplink.cc/albi0ne
 
 
-## 🛠 My Skills
+## 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,go,rust, )](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kafka,git,docker,pytorch,tensorflow,anaconda,bash,django,flask,arch,linux, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka,raspberrypi,git,docker,pytorch,tensorflow,anaconda,bash,django,flask,arch,linux, )](https://skillicons.dev)
 
  ## 🦾 My Github Stats
 
