@@ -65,7 +65,7 @@ while not senior_level:
 
 ## 🔗 Contacts
 
-📧 Email: aslanberk@gmail.com
+📧 Email: aslanberkw@gmail.com
 
 🌐 Or: https://taplink.cc/albi0ne
 
