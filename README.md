@@ -4,6 +4,29 @@
 <h3 align="center">👋 Hi, I’m Aslanberk</h3>
 <p align="center">I'm a Back-end dev from Russia</p>
 
+<div align="center">
+  <!-- Profile Views -->
+  
+  <a href="https://github.com/Aslanberk" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Aslanberk&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  
+  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
+
+  <!-- Total Stars -->
+  <a href="https://github.com/Aslanberk?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Aslanberk?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+  <!-- Followers -->
+  <a href="https://github.com/Aslanberk?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Aslanberk?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+
+  <a style="display:block;" href="https://github.com/joshuathadi?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
+  
+</div>
+
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+
 <br clear="both">
 
 <div align="center">
@@ -69,7 +92,10 @@ while not senior_level:
 
 ## 🔗 Contacts
 
-📧 Email: aslanberkw@gmail.com
+<div align="left">
+  <a href="mailto:aslanberkw@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+
+</div>
 
 🌐 Or: https://taplink.cc/albi0ne
 
