@@ -90,7 +90,7 @@ while not senior_level:
 • Interview-ready algorithmic solutions
 
 
-## 🔗 Contacts
+## 🔗 Drop me a line:
 
 <div align="left">
   <a href="mailto:aslanberkw@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
