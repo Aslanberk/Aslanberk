@@ -1,7 +1,11 @@
+
+<h3 align="center">👋 Hi, I’m Aslanberk</h3>
+<p align="center">I'm a Back-end dev from Russia</p>
+
 <br clear="both">
 
 <div align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  />
+  <img alt="GIF" src="https://raw.githubusercontent.com/leereilly/leereilly/f40fd8f5e856afa9fc21415ba03de2fe8a0ce9c1/images/breakout-dark.svg"  />
 </div>
 
 <div align="center">
@@ -13,14 +17,12 @@
 
 </div>
 
-<h3 align="center">👋 Hi, I’m Aslanberk</h3>
-<p align="center">I'm a Back-end dev from Russia</p>
 
-<div align="center">
+<!-- <div align="center">
 
 ![snake gif](https://github.com/Aslanberk/Aslanberk/blob/output/github-snake-dark.svg)
 
-</div>
+</div> -->
 
 ## 🧠 About Me
 
