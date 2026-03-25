@@ -94,13 +94,10 @@ while not senior_level:
 
 <div align="left">
   <a href="mailto:aslanberkw@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-
+<a href="https://taplink.cc/albi0ne" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
 </div>
 
-🌐 Or: https://taplink.cc/albi0ne
-
-
-## 🛠 Tech Stack
+## 🛠 Languages & Tools I Have Placed My Hands On
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,go,nodejs, )](https://skillicons.dev)
 
