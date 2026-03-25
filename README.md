@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img alt="GIF" src="https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif"  />
+</div>
 <h3 align="center">👋 Hi, I’m Aslanberk</h3>
 <p align="center">I'm a Back-end dev from Russia</p>
 
